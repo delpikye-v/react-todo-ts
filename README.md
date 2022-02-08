@@ -1,2 +1,4 @@
-# react-todo-ts-course
-Simple teach/test
+# Simple Todo-TS (teach/test)
+
+Create by: [Create React App](https://github.com/facebook/create-react-app).
+
